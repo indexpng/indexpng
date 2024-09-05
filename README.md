@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm chris.
+Currently I'm a studying computer science and living in germany.
+I work mostly with microcontrollers.
+Nothing big, just bedroom projects😄.
 <!--
 **indexpng/indexpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
